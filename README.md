@@ -64,6 +64,7 @@ This project tackles a real HR business problem: **predicting which employees ar
 - Accepts 13 employee features as input
 - Returns **real-time promotion probability**
 - Hosted via **Cloudflare tunnel** from Google Colab
+- Streamlit http://localhost:8501/
 
 ---
 
